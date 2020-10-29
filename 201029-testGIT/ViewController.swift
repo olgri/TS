@@ -15,8 +15,12 @@ class ViewController: UIViewController {
        print("123")
        print("456")
         print("678")
+        //main
+        test()
     }
-
+    func test(){
+        
+    }
 
 }
 
