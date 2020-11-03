@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("678")
         //main
         test()//
+        print("fdsadf")
     }
     func test(){
         
