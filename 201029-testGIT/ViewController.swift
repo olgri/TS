@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         //main
         test()//
         print("fdsadf")
+        print("asdfasd")
     }
     func test(){
         
